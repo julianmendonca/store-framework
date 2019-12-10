@@ -56,7 +56,8 @@
   "flex-layout.col": {
     "children": [
       "image#electronics",
-      "image#major-appliance"
+      "image#major-appliance",
+      "slider-layout#home"
     ]
   },
   "image#electronics": {
