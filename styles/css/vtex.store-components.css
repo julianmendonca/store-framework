@@ -21,9 +21,10 @@
 .infoCardContainer--vintage {
     background-color: #EDCFD1
   }
+
 .infoCardContainer {
     max-width: 1260px;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -36,6 +37,6 @@
     background-color: white;
 }
 
-.infoCardCallActionContainer--metal{
+.infoCardContainer--metal{
     color: #e1e1e1;
 }
